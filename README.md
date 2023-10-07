@@ -3,7 +3,6 @@
 ![issues](https://img.shields.io/github/issues/scroll-tech/scroll-prover)
 
 ## Usage
-
 ### Prerequisite
 
 Fetch git-submodule of test traces
